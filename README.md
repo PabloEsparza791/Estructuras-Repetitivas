@@ -2,7 +2,7 @@
 
 JUAN PABLO DE LUNA ESPARZA   24150791
 
-CONTADOR DE DIGITOS:
+1.-CONTADOR DE DIGITOS:
 Al ingresar un número nos dice cuantos dígitos lo conforman
 
 2.-FIZZBUZZ:
